@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2016-10-30 22:54:19
 * @Last Modified by:   Administrator
-* @Last Modified time: 2016-10-30 23:21:39
+* @Last Modified time: 2016-11-02 20:40:09
 */
 
 'use strict';
@@ -37,7 +37,7 @@ function waterfall(){
 
 			$(value).css({
 				'position':'absolute',
-				'left':(w*minHIndex+33)+'px',
+				'left':(w*minHIndex+32)+'px',
 				'top':minH+'px'
 			})
 			//被添加的那列的高度加上新添加图片的高度
